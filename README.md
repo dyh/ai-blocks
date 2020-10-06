@@ -72,13 +72,12 @@ pip install -r requirements.txt
 
 ## 运行准备与输出结果
 
-1. 如果你需要使用vpgnet，请下载训练好的模型文件
+1. 下载训练好的vpgnet模型文件
+    
+    vpg-1-4-6.pth [百度网盘 提取码: yd4c](https://pan.baidu.com/s/1Kjp2NeSv8jHBb5F66_n3lQ)
 
-    ```
-    # vpg-1-4-6.pth [百度网盘 提取码: yd4c](https://pan.baidu.com/s/1Kjp2NeSv8jHBb5F66_n3lQ)  
-    # 形成 ./ai-blocks/lane_line/vpgnet/weights/vpg-1-4-6.pth 路径
-    ```
-   
+    形成 ./ai-blocks/lane_line/vpgnet/weights/vpg-1-4-6.pth 路径
+
 2. 准备一些测试用的图片数据
     
     ```
