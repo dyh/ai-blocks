@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/pytest/
+
+# vpgnet weights file
+/lane_line/vpgnet/weights/vpg-1-4-6.pth
