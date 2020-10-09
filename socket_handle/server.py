@@ -238,7 +238,7 @@ class Server:
                 if config.print_running_time:
                     # 检测结束时间
                     # print('')
-                    print(' # ' + thread_name + ', 车牌数量: ' + str(len(list_all_position_result)) +
+                    print(' # ' + thread_name + ', 车牌数量: ' + str(len(list_plates_all_info_temp)) +
                           ', 车牌用时: ' + str(datetime.datetime.now() - start_time_single_image) + ', ', end='')
 
                     # 车道线检测开始时间

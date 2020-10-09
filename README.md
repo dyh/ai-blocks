@@ -2,7 +2,15 @@
 
 AI 积木
 
+AI开源项目整合：车牌识别、车道线检测与分类。
+
 awesome ai applications, lane line detection, license plate detection, etc.
+
+
+## 展示视频
+
+[![AI-BLOCKS](https://res.cloudinary.com/marcomontalbano/image/upload/v1602207766/video_to_markdown/images/youtube--SIKfIZABbfg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=SIKfIZABbfg "AI-BLOCKS")
+
 
 ## 代码引用和开源感谢
 
