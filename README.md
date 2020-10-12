@@ -9,7 +9,15 @@ awesome ai applications, lane line detection, license plate detection, etc.
 
 ## 展示视频
 
-[![AI-BLOCKS](https://res.cloudinary.com/marcomontalbano/image/upload/v1602207766/video_to_markdown/images/youtube--SIKfIZABbfg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=SIKfIZABbfg "AI-BLOCKS")
+youtube
+
+[![youtube](https://res.cloudinary.com/marcomontalbano/image/upload/v1602207766/video_to_markdown/images/youtube--SIKfIZABbfg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=SIKfIZABbfg "youtube")
+
+b站
+
+[![bilibili](https://res.cloudinary.com/marcomontalbano/image/upload/v1602207766/video_to_markdown/images/youtube--SIKfIZABbfg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.bilibili.com/video/BV1Ay4y1r7JU/ "bilibili")
+
+
 
 
 ## 代码引用和开源感谢
